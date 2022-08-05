@@ -1,0 +1,29 @@
+PODS:
+  - check_phone_number (0.0.1):
+    - Flutter
+    - PhoneNumberKit/PhoneNumberKitCore (= 3.3.4)
+  - Flutter (1.0.0)
+  - PhoneNumberKit/PhoneNumberKitCore (3.3.4)
+
+DEPENDENCIES:
+  - check_phone_number (from `.symlinks/plugins/check_phone_number/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - PhoneNumberKit
+
+EXTERNAL SOURCES:
+  check_phone_number:
+    :path: ".symlinks/plugins/check_phone_number/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  check_phone_number: 2b75f49d6edd0ae84aed65db43225277188c1d33
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  PhoneNumberKit: 441e8b26ec88d598e3591de9061eff18f5dd12e8
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.2
